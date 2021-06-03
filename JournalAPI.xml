@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>JournalAPI</name>
+    </assembly>
+    <members>
+        <member name="M:JournalAPI.Controllers.AuthController.Post(System.String,System.String)">
+            <summary>
+            autentisering som genererar token
+            user: filip 
+            password: filip
+            </summary>
+            <param name="username"></param>
+            <param name="password"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
